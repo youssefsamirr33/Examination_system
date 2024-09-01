@@ -1,1 +1,2 @@
 # Examination system
+-	Description: Developed an OOP-based Examination System allowing admins to create final or practical exams with automated question randomization. Implemented features for students to take exams, view solutions post-exam, and receive instant grading. Utilized inheritance, polymorphism, and encapsulation to manage user roles and exam functionalities. The system also supports detailed performance reporting and analytics. Technologies used: Visual Studio C#, and design patterns like Singleton and Factory. 
